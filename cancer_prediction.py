@@ -74,3 +74,5 @@ def accuracy_plot():
 
 accuracy_plot()
 plt.show()
+
+![Alt text](/PycharmProjects/Applied-Machine-Learning/Figure_1.png)
